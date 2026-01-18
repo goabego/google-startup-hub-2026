@@ -1,26 +1,86 @@
-# 🚀 Google Startup Hub 2026
+# Google Startup Ecosystem Resources (2026)
 
-**Stop chasing links, start building.**
+This repository serves as a consolidated reference for the 2026 Google Startup Ecosystem, based on the [original guide](https://dev.to/googleai/the-2026-ultimate-guide-to-google-for-startups-funding-accelerators-and-350k-in-credits-10ha). It aggregates links for funding, accelerators, cloud credits, and technical resources.
 
-This repository is a curated, "single source of truth" for founders and developers building within the Google ecosystem. It consolidates the most critical event calendars, technical resources, and community hubs to help you scale faster in 2026.
+## 🗺️ Ecosystem Overview
 
-## 🛠 What's Inside?
-A consolidated directory of resources across the four major Google pillars:
+Key teams and product areas for startups:
 
-*   **Google Cloud for Startups:** Technical Office Hours, architecture workshops, and credits.
-*   **Google DeepMind:** Frontier AI hackathons and research sessions (Gemini & beyond).
-*   **Google Developer Groups (GDG):** Local meetups, DevFests, and community networking.
-*   **Google for Developers:** Official global conference directory and summits.
+| Team | Focus | Link |
+|------|-------|------|
+| **Labs** | AI experiments (Whisk, Flow, Jules) | [labs.google](http://labs.google/) |
+| **Google.org** | Philanthropic AI for societal impact | [google.org](http://google.org/) |
+| **Startup** | Hub for credits, accelerators, education | [startup.google.com](http://startup.google.com/) |
+| **DeepMind** | Frontier models (Gemini) & research | [deepmind.google](https://deepmind.google/) |
+| **Google Cloud** | Infrastructure, scale, GTM support | [cloud.google.com/startup](https://cloud.google.com/startup) |
 
-## 📌 Quick Links
-| Resource | Best For... | Link |
-| :--- | :--- | :--- |
-| **Cloud Office Hours** | 1:1 Architecture Guidance | [Luma (AMER)](https://luma.com/amer-startup-gcp?k=c) |
-| **DeepMind Events** | AI & LLM Implementation | [Luma (DeepMind)](https://luma.com/deepmind?k=c) |
-| **GDG Map** | Local Networking & Community | [GDG Events](https://gdg.community.dev/events/#/list) |
-| **Official Directory** | Global Summits & Announcements | [Google Developers](https://developers.google.com/events) |
+---
 
-## 🤝 Contributing
-Have a Google event or community resource that belongs here? Feel free to open a PR! Let’s help every founder find their way in the ecosystem.
+## 💰 Funding Opportunities
 
-#GoogleForStartups #GoogleCloud #DeepMind #GDG #StartupLife #AI #2026
+### AI Futures Fund
+*Hybrid equity funding and technical mentorship program for early-stage frontier AI startups.*
+- **Apply:** [AI Futures Fund Application](https://docs.google.com/forms/d/e/1FAIpQLSfmv3YKZtCr_HyQdtMWfUCjUUmxPuPTL9lV29Gs4k8d3P1iwg/viewform)
+- **Partners:** [Accel Atoms](https://atoms.accel.com/)
+
+### Venture Arms
+* **Gradient Ventures:** Seed to Series A (AI-focused).
+* **CapitalG:** Growth-stage (Series C+).
+* **GV (Google Ventures):** Sector-agnostic (Seed to Growth).
+
+---
+
+## 🚀 Accelerator Programs
+
+Directories for finding mentorship and cohort-based programs:
+
+*   **Startup Directory:** [Global Accelerator Programs](https://startup.google.com/programs/directory/#accelerators)
+*   **Developer Directory:** [Impact & Diversity Accelerators](https://developers.google.com/community/accelerators/programs)
+*   **Social Impact:** [Google.org Accelerator Opportunities](https://www.google.org/opportunities/)
+
+---
+
+## ☁️ Google Cloud Credits
+
+**Main Application:** [Apply to Google for Startups Cloud Program](https://cloud.google.com/startup/apply)
+
+### Program Tiers
+
+| Tier | Eligibility | Credits | Learn More |
+|------|-------------|---------|------------|
+| **Start** | Pre-funded, <5 years | Up to $2,000 | [Tier Details](https://cloud.google.com/startup/pre-funded) |
+| **Scale** | Pre-seed to Series A | Up to $200,000 | [Tier Details](https://cloud.google.com/startup/early-stage) |
+| **Scale AI** | AI-first, Pre-seed to Series A | Up to $350,000 | [Tier Details](https://cloud.google.com/startup/ai) |
+| **Web3** | Blockchain-focused | Specialized benefits | [Tier Details](https://cloud.google.com/startup/web3) |
+
+### Partner Perks & Nominations
+*   **Nominate a Tool:** [Submit a tool for the perks program](https://docs.google.com/forms/d/e/1FAIpQLSfZcHIc2yStz65uW7FUM6cg1XHycBkUAYNN_7ISqZlPTduY4A/viewform)
+
+---
+
+## 📚 Technical Whitepapers & Guides
+
+Essential reading for building on Google Cloud:
+
+*   **2026 Trends:** [The Future of AI: Perspectives for Startups (2026)](https://services.google.com/fh/files/misc/google_cloud_ai_agent_trends_2026_report.pdf)
+*   **2025 Insights:** [The Future of AI 2025 for Startups](https://services.google.com/fh/files/misc/google_cloud_future_of_ai_perspectives_for_startups_2025.pdf)
+*   **Setup Guide:** [Startup Setup Best Practices for Google Cloud](https://services.google.com/fh/files/misc/gcp_technical_self_onboarding_09_25_25.pdf)
+*   **Design Patterns:** [Agentic Design Patterns (by Antonio Gullí)](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0#heading=h.pxcur8v2qagu)
+
+---
+
+## 📅 Events
+
+*   **Google Cloud Next '26:** [Register Here](https://www.googlecloudevents.com/) (April 22-24, 2026, Las Vegas)
+*   **Google Cloud for Startups (N. America):** [LumaEvent Calendar](https://luma.com/amer-startup-gcp?k=c) (Technical Office Hours & Workshops)
+*   **Google DeepMind:** [Luma Event Calendar](https://luma.com/deepmind?k=c) (Hackathons & Research Sessions)
+*   **Google Developer Groups (GDG):** [Global Event List](https://gdg.community.dev/events/#/list) (Local meetups and DevFests)
+*   **Google for Developers:** [Global Events Directory](https://developers.google.com/events) (Conferences and Summits)
+
+---
+
+## 👤 Author
+
+**Abraham Gomez**
+*   [X / Twitter (@WhoInvitedabe)](https://x.com/WhoInvitedAbe)
+*   [LinkedIn (GoAbeGo)](https://www.linkedin.com/in/goabego/)
