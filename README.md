@@ -79,6 +79,18 @@ Essential reading for building on Google Cloud:
 
 ---
 
+## 🤝 How to Contribute
+
+This is a community-driven resource. If you know of a new program, event, or resource:
+
+1.  **Fork** the repository.
+2.  **Add** the link to the relevant section (please keep the formatting consistent).
+3.  **Submit a Pull Request** with a brief description of the addition.
+
+Let's build this together! 🛠️
+
+---
+
 ## 👤 Author
 
 **Abraham Gomez**
